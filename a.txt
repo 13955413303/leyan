@@ -1,0 +1,18 @@
+#!/bin/bash
+
+whoami 
+              total        used        free      shared  buff/cache   available
+Mem:        8144728      229536     6828160        1256     1087032     7642088
+Swap:       4194300           0     4194300
+              total        used        free      shared  buff/cache   available
+Mem:        8144728      229152     6828508        1256     1087068     7642468
+Swap:       4194300           0     4194300
+              total        used        free      shared  buff/cache   available
+Mem:        8144728      230400     6827172        1256     1087156     7641220
+Swap:       4194300           0     4194300
+              total        used        free      shared  buff/cache   available
+Mem:        8144728      230164     6827288        1256     1087276     7641436
+Swap:       4194300           0     4194300
+              total        used        free      shared  buff/cache   available
+Mem:        8144728      231076     6821728        1256     1091924     7640396
+Swap:       4194300           0     4194300
