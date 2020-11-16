@@ -17,7 +17,6 @@ Swap:       4194300           0     4194300
 Mem:        8144728      231076     6821728        1256     1091924     7640396
 Swap:       4194300           0     4194300
               total        used        free      shared  buff/cache   available
-<<<<<< fenzhi111
 Mem:        8144708      505816     6475900        1628     1162992     7351732
 Swap:       4194300           0     4194300
               total        used        free      shared  buff/cache   available
