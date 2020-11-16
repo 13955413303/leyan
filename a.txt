@@ -36,3 +36,7 @@ Mon Nov 16 06:31:03 UTC 2020
 Mem:        8144684      601720     5602952        3220     1940012     7237984
 Swap:       4194300           0     4194300
 Mon Nov 16 06:36:42 UTC 2020
+              total        used        free      shared  buff/cache   available
+Mem:        8144684      601776     5602760        3220     1940148     7237928
+Swap:       4194300           0     4194300
+Mon Nov 16 06:41:14 UTC 2020
